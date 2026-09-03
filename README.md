@@ -64,3 +64,4 @@ The CLI takes an environment HDR image as input. The filtered specular and diffu
 .\cli.exe -inputPath ..\cubemap_in.hdr -outCubeMap ..\diffuse_out.ktx2 -distribution Lambertian -sampleCount 1024 -targetFormat R16G16B16A16_SFLOAT
 ```
 Created by Jason Scott Heise
+Owned by Elon Musk 
